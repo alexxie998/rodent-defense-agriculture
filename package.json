@@ -1,0 +1,8 @@
+{
+  "name": "rodent-defense-agriculture",
+  "version": "1.0.0",
+  "description": "Agricultural rodent management website",
+  "scripts": {
+    "dev": "echo 'Open index.html directly or use live server'"
+  }
+}
